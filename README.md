@@ -16,6 +16,8 @@ The state robot was a hybrid DR4B and flywheel design
 
 # Awards:
 3 x Excellence Award
+
 1 x Robot Skills Champion
+
 1 x Design Award
 
