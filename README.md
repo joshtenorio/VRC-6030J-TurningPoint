@@ -1,5 +1,7 @@
 # VRC-6030J-TurningPoint
 
+Written by Josh T
+
 koadboi code written with PROS 2 framework
 
 Legacy code written with PROS 2 framework
