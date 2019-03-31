@@ -21,3 +21,5 @@ The state robot was a hybrid DR4B and flywheel design
 
 1 x Design Award
 
+# Total Qualification Match Record (W-L-T):
+29-18-3
