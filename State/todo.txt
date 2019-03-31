@@ -1,0 +1,4 @@
+in jesterOS:
+    make the debug lvgl objects (so the labels, graphs, taht stuff) global
+    then make a static function to run in debugSelect after setting subsystemID
+    make button matrix in debug menu toggle
